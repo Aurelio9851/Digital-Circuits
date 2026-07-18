@@ -1,0 +1,1 @@
+Developed and implemented several digital electronic components using VHDL and Verilog, covering the full workflow from specification and simulation to synthesis, FPGA implementation, and verification.
